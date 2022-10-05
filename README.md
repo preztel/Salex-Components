@@ -1,19 +1,10 @@
-<p>
-    <a href="https://discord.com/invite/4eeurUVvTy"><img src="https://img.shields.io/discord/902911619032576090?color=%237289da&label=Discord" alt="Discord"></a>
-    <a href="https://www.npmjs.com/package/flowbite"><img src="https://img.shields.io/npm/dt/flowbite.svg" alt="Total Downloads"></a>
-    <a href="https://github.com/themesberg/flowbite/releases"><img src="https://img.shields.io/npm/v/flowbite.svg" alt="Latest Release"></a>
-    <a href="https://flowbite.com/docs/getting-started/license/"><img src="https://img.shields.io/badge/license-MIT-blue" alt="Licenese"></a>
-</p>
-
-------
-
 ## Documentation
 
-For full documentation, visit [flowbite.com](https://flowbite.com/).
+Documentation for Salex-Solutions Components
 
 ## Components
 
-Flowbite is an open source collection of UI components built with the utility classes from Tailwind CSS that you can use as a starting point when coding user interfaces and websites.
+Private use only, if you are caught with using Salex Components we will find you, and we will kill you.
 
 <table>
   <tr>
